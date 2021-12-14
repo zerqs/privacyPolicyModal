@@ -153,8 +153,8 @@ class GDPR {
     }
 }
 
-let gdpr = new GDPR({
-    "header": "Cookie Policy v2.0",
+const gdpr = new GDPR({
+    "header": "Cookie Policy",
     "declaration": "This is the declaration under main header",
     "categorys": {
         "Esssential": "essence text",
