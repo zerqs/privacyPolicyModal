@@ -27,7 +27,9 @@
 </pre>
 <p> add a div to your page where the modl will live</p>  
 
-```<div id ="privacyPopup" class="privacy-popup ">````
+```html
+<div id ="privacyPopup" class="privacy-popup ">
+    ````
 
 <p> The modal takes two json objects </p>
 
