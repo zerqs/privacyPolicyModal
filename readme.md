@@ -29,7 +29,7 @@
 
 ```html
 <div id ="privacyPopup" class="privacy-popup ">
-    ````
+````
 
 <p> The modal takes two json objects </p>
 
