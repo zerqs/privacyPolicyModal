@@ -33,8 +33,7 @@
 
 <p> The modal takes two json objects </p>
 
-<pre>
-<code>
+```javascript
 const gdpr = new GDPR({
     "header": "Cookie Policy",
     "declaration": "This is the declaration under main header",
@@ -56,8 +55,7 @@ const gdpr = new GDPR({
         "Content-Type": "application/json"
     }
 })
-</code>
-</pre>
+```
 <p> you can add / remove css as you please in the css file</p>
 <p> Once configured to your liking you are ready to go</p>
 
