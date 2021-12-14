@@ -1,1 +1,1 @@
-GDPR / Privacy Policy Modal
+<b>GDPR / Privacy Policy Modal</b>
