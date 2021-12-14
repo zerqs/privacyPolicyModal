@@ -10,7 +10,7 @@
 
 <h3>About<h3>
 <p>Simple Privacy Policy / GDPR Popup</p>
-<img src="https://github.com/zerqs/privacyPolicyModal/tree/main/screenshot/screenshot.png" alt="screenshot.png">
+<img src="https://github.com/zerqs/privacyPolicyModal/blob/main/screenshot/screenshot.PNG" alt="screenshot.png">
 
 
 <h3>Install</h3>
@@ -28,7 +28,7 @@
 <p> add a div to your page where the modl will live</p>  
 <pre>
 <code>
-    .<div id ="privacyPopup" class="privacy-popup ">
+    <div id ="privacyPopup" class="privacy-popup ">
 </code>
 </pre>
 <p> The modal takes two json objects </p>
