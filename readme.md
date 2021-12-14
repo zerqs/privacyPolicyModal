@@ -16,7 +16,7 @@
 <h3>Install</h3>
 
 <p>Download the files</p>
-<p><b>P.S<b> You can download and run the modal as is if you wish to see it in action.</p>
+<p><b>P.S</b> You can download and run the modal as is if you wish to see it in action.</p>
 <p>just open index.html with your live server option</p>
 <p>Put the files in your project</p>
 <p> add  the javascript file to your  page.</p>
